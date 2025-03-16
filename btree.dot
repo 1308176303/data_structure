@@ -1,0 +1,11 @@
+digraph BTree {
+  node13 [label="{5 | 8 | 11}"];
+  node13 -> node14;
+  node14 [label="{2 | 3 | 4}"];
+  node13 -> node15;
+  node15 [label="{6 | 7}"];
+  node13 -> node16;
+  node16 [label="{9 | 10}"];
+  node13 -> node17;
+  node17 [label="{14 | 17}"];
+}

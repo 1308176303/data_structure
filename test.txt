@@ -1,0 +1,7 @@
+digraph BTree{
+    node1 [label="8"];
+    node2 [label="4"];
+    node3 [label="2"];
+    node4 [label="1"];
+    node4->node2;
+}
